@@ -27,7 +27,13 @@ const App: React.FC = () => {
       age: 42,
       img: "https://people.com/thmb/TFd6HnDdfoj-Zf4QjANQGZCW0dc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(8645x4799:8647x4801)/kobe-1-1eac128ebda843969dab0e3d5dceaba2.jpg"
       
-    }
+    },
+    {
+        name: "tilak saxena",
+        age: 30,
+        img: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202302/recall-salman-sixteen_nine.jpg?VersionId=4oxR2lC2aw.38ZfB98TSkzTEmMhtfULK&size=690:388"
+        
+      }
   ])
 
   return (
